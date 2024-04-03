@@ -2,7 +2,7 @@
 #bibliteca para gerar números aleatórios e outras operações relacionadas a aleatoriedade
 import random
 #Nome do Programa
-print('fazendo test')
+print('fazendo teste')
 print("*"*8+"Meu gerador de números da sorte"+"*"*8)
 #variavel com função input solicitando a data do dia atual
 data_nascimento = input("Insira a data de hoje o para gerar seus números da sorte \n(formato: YYYY/MM/DD): ")
